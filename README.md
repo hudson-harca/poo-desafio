@@ -27,7 +27,7 @@ classDiagram
         +atualizarPagina()
     }
 
-    class iPhone {
+    class IPhone {
     }
 
     ReprodutorMusical <|-- iPhone : implements 
